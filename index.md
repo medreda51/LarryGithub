@@ -5,3 +5,5 @@
 * Larry Plotter y EL Malware de fuergo
 * Larry PLotter y La orden de unix
 * Larry PLotter y El Misterio del Hacher
+* Larry PLotter y los commits de la muerte
+
